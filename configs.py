@@ -16,7 +16,7 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [Files Store Bot](https://t.me/MoviesFileStoreBot)
 
 📝 **Language:** [Python3](https://www.python.org)
 
@@ -24,21 +24,22 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @MRK_YT
+🧑🏻‍💻 **Developer:** @Aditya1190
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📺 **Support :** [Telegram Channel](https://t.me/State_of_Siege_2611)
 """
+
+
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @MRK_YT
+🧑🏻‍💻 **Developer:** @Aditya1190
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📺 **Support :** [Telegram Channel](https://t.me/State_of_Siege_2611)
 
 Donate Now (coming soon)
 """
+
+
+
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
