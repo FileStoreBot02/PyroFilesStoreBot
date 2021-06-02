@@ -103,7 +103,7 @@ async def start(bot, cmd):
 				[
 					[
 						InlineKeyboardButton("Owner", url="https://t.me/aditya1190"),
-						InlineKeyboardButton("Channel", url="t.me/Netflix_Latest_Movies")
+						InlineKeyboardButton("Channel", url="t.me/LatestNetflixMovie2021")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -171,7 +171,7 @@ async def main(bot, message):
 				f"**Your File Stored in my Database!**\n\nHere is the Permanent Link of your file: {share_link} \n\nJust Click the link to get your file!",
 				parse_mode="Markdown",
 				reply_markup=InlineKeyboardMarkup(
-					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("Channel", url="https://t.me/Netflix_Latest_Movies")]]
+					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("Channel", url="https://t.me/LatestNetflixMovie2021")]]
 				),
 				disable_web_page_preview=True
 			)
@@ -317,7 +317,7 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("Owner", url="https://t.me/aditya1190"),
-						InlineKeyboardButton("Channel", url="https://t.me/Netflix_Latest_Movies")
+						InlineKeyboardButton("Channel", url="https://t.me/LatestNetflixMovie2021")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -369,7 +369,7 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("Owner", url="https://t.me/aditya1190"),
-						InlineKeyboardButton("Channel", url="https://t.me/Netflix_Latest_Movies")
+						InlineKeyboardButton("Channel", url="https://t.me/LatestNetflixMovie2021")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
