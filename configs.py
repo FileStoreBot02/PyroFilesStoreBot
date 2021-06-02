@@ -26,14 +26,14 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Aditya1190
 
-📺 **Support :** [Telegram Channel](https://t.me/Netflix_Latest_Movies)
+📺 **Support :** [Telegram Channel](https://t.me/LatestNetflixMovie2021)
 """
 
 
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Aditya1190
 
-📺 **Support :** [Telegram Channel](https://t.me/Netflix_Latest_Movies)
+📺 **Support :** [Telegram Channel](https://t.me/LatestNetflixMovie2021)
 
 Donate Now (coming soon)
 """
